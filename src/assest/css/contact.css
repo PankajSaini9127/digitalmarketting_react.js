@@ -1,0 +1,32 @@
+.contactHeader{
+    font-size: 40px !important;
+    font-weight: 700 !important;
+    text-shadow: 1px 1px 1px #000;
+}
+.contactFormbtn{
+    font-size: 20px !important;
+    font-weight: 700 !important;
+    background-color: #000 !important;
+    color: #ffff;
+    border-radius: 30px !important;
+    padding: 10px 45px !important;
+    margin-bottom: 25px;
+}
+.contactFormbtn:hover{
+    background-color: #FFC107 !important;
+}
+
+@media screen and (max-width:990px) {
+    .Servicecontact{
+        text-align: center;
+        font-size: 20px !important;
+    }
+    .labelContact{
+        display: block !important;
+        margin-left: 20px !important;
+        font-size: 20px !important;
+    }
+    .contactHeader{
+        padding-bottom: 20px !important;
+    }
+}

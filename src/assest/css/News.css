@@ -1,0 +1,21 @@
+.NewsText:hover{
+    color: black;
+}
+
+
+.newsText2{
+    font-weight: 700 !important;
+    margin: 0px 10px !important;
+    color: #565758;
+    font-size: 24px !important;
+    margin-top: 10px !important;
+}
+.newsText2:hover{
+    color: black;
+}
+
+.newsSubText{
+    color: #6C757D;
+    font-size: 16px !important;
+    margin-left: 10px !important;
+}

@@ -1,0 +1,11 @@
+.heroText2{
+    font-size: 20px !important;
+    word-spacing: 1px;
+    color: #717275;
+}
+
+@media screen and (max-width:990px) {
+    .homeContent1{
+        padding: 15px !important;
+    }
+}

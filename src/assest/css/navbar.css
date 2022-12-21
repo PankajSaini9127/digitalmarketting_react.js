@@ -1,0 +1,38 @@
+
+.navbarBackground{
+      position: relative;
+      top: -90px;
+}
+
+.navItem{
+    text-decoration: none !important;
+    color: #717275 !important ;
+    padding: 8px 10px !important;
+    font-size: 20px !important;
+    font-weight: 700 !important;
+    /* text-align: center; */
+}
+.navItem:hover{
+    color: #000000 !important;
+}
+
+.navItemMobile{
+    padding:  15px !important;
+    }
+
+@media screen and (max-width:990px) {
+    .navbarBackground{
+        top: 0px;
+        width: 100% !important;
+    }
+    .heroTextDiv{
+        position: absolute !important;
+        top: 100px !important;
+    }
+    .HeaderText1{
+        font-size: 25px!important;
+    }
+    .HeaderText2{
+        font-size: 13px!important;
+    }
+}
